@@ -1,6 +1,5 @@
 # 抖音爆款视频特征分析工具
 
-COMP2501 Introduction to Data Science 课程项目，香港大学。
 
 ## 项目简介
 
